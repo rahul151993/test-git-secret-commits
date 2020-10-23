@@ -1,1 +1,3 @@
 This is for the testing purpose
+KEY_ID='AKIAIOSFODNN7EXAMPLI'
+KEY_SECRETS='wJalrXUtnFEMI/K7MDENG/284hafhj3287'
